@@ -11,7 +11,6 @@ int main(){
     for( i = 1; i <= n; i++){
         fact = fact * i;
     }
-
     printf("Factorial of a Number is: %d", fact);
     
     return 0;
