@@ -4,12 +4,14 @@
 
 int main() {
     int n;
-    int sum;
+    int sum = 0;
 
     printf("Enter N: ");
     scanf("%d", &n);
 
-    sum = n * (n + 1) / 2;
+    for ( int i = 1; i <= n; i++ ){
+        sum += i;
+    }
 
     printf("Sum of first %d natural numbers = %d\n", n, sum);
 
