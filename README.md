@@ -22,3 +22,7 @@
 
 ---
 <h1>Day-4 Completed:</h1>
+• Fibonacci Series.<br>
+• nth Fibonacci Term.<br>
+• Armstrong Number.<br>
+•Armstrong Numbers in a Range.<br>
