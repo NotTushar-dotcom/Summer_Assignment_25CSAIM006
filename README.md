@@ -25,4 +25,4 @@
 • Fibonacci Series.<br>
 • nth Fibonacci Term.<br>
 • Armstrong Number.<br>
-•Armstrong Numbers in a Range.<br>
+• Armstrong Numbers in a Range.<br>
