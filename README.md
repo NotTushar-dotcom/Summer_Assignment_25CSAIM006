@@ -14,3 +14,11 @@
 • Check whether the number is Palindrome.<br>
 
 ---
+<h1>Day-3 Completed:</h1>
+• To Check Whether a Number is Prime.<br>
+• Prime Numbers in a Range.<br>
+• Find (Greatest Common Divisor) of Two Numbers.<br>
+• Find LCM of Two Numbers.<br>
+
+---
+<h1>Day-4 Completed:</h1>
