@@ -26,7 +26,6 @@
 • nth Fibonacci Term.<br>
 • Armstrong Number.<br>
 • Armstrong Numbers in a Range.<br>
-<<<<<<< HEAD
 
 ---
 <h2>Day-5 Completed:</h2>
@@ -34,5 +33,5 @@
 • Check Strong Number.<br>
 • Factors of a Number.<br>
 • Largest Prime Factor.<br>
-=======
->>>>>>> 2be170efa95196a698528f0ececc35004a01e9d4
+
+---
