@@ -1,5 +1,7 @@
 // Write a program to Check perfect number.
 
+// A perfect number is a positive integer that is equal to the sum of its proper positive divisors (excluding the number itself).
+
 #include <stdio.h>
 
 int main() {
