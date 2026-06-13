@@ -7,21 +7,21 @@
 • Count digits in a Number. <br>
 
 ---
-<h1>Day-2 Completed:</h1>
+<h2>Day-2 Completed:</h2>
 • Sum of digits of a Number.<br>
 • Reverse of a Number.<br>
 • Product of digits of a Number.<br>
 • Check whether the number is Palindrome.<br>
 
 ---
-<h1>Day-3 Completed:</h1>
+<h2>Day-3 Completed:</h2>
 • To Check Whether a Number is Prime.<br>
 • Prime Numbers in a Range.<br>
 • Find (Greatest Common Divisor) of Two Numbers.<br>
 • Find LCM of Two Numbers.<br>
 
 ---
-<h1>Day-4 Completed:</h1>
+<h2>Day-4 Completed:</h2>
 • Fibonacci Series.<br>
 • nth Fibonacci Term.<br>
 • Armstrong Number.<br>
