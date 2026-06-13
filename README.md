@@ -25,4 +25,11 @@
 • Fibonacci Series.<br>
 • nth Fibonacci Term.<br>
 • Armstrong Number.<br>
-•Armstrong Numbers in a Range.<br>
+• Armstrong Numbers in a Range.<br>
+
+---
+<h1>Day-5 Completed:</h1>
+• Check Perfect Number.<br>
+• Check Strong Number.<br>
+• Factors of a Number.<br>
+• Largest Prime Factor.<br>
