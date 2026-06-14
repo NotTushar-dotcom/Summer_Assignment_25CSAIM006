@@ -35,3 +35,10 @@
 • Largest Prime Factor.<br>
 
 ---
+<h2>Day-6 Completed:</h2>
+• Convert Decimal to Binary.<br>
+• Convert Binary to Decimal.<br>
+• Set Bits in a Number.<br>
+• Find x^n without pow().<br>
+
+---
