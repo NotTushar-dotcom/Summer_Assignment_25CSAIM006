@@ -42,3 +42,10 @@
 • Find x^n without pow().<br>
 
 ---
+<h2>Day-7 Completed:</h2>
+• Recursive Factorial.<br>
+• Recursive Fibonacci.<br>
+• Recursive Sum of Digits.<br>
+• Recursive Reverse of Number.<br>
+
+---
