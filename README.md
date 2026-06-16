@@ -50,9 +50,9 @@
 
 ---
 <h2>Day-8 Completed:</h2>
-• Recursive Factorial.<br>
-• Recursive Fibonacci.<br>
-• Recursive Sum of Digits.<br>
-• Recursive Reverse of Number.<br>
+• Print Half Pyramid Pattern.<br>
+• Print number triangle.<br>
+• Print Character Triangle.<br>
+• Repeated Number Pattern.<br>
 
 ---
