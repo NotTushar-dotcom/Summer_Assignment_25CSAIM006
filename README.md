@@ -56,3 +56,10 @@
 • Repeated Number Pattern.<br>
 
 ---
+<h2>Day-9 Completed:</h2>
+• Print Reverse Star Pattern.<br>
+• Print Reverse Number Triangle.<br>
+• Print Repeated Character Pattern.<br>
+• Print Hollow Square Pattern.<br>
+
+---
