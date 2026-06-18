@@ -63,3 +63,10 @@
 • Print Hollow Square Pattern.<br>
 
 ---
+<h2>Day-10 Completed:</h2>
+• Print Reverse Star Pyramid.<br>
+• Print Reverse Pyramid.<br>
+• Print Number Pyramid.<br>
+• Print Character Pyramid.<br>
+
+---
