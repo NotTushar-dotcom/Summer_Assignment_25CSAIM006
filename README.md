@@ -70,3 +70,10 @@
 • Print Character Pyramid.<br>
 
 ---
+<h2>Day-11 Completed:</h2>
+• Function to Find Sum of Two Numbers.<br>
+• Function to Find Maximum.<br>
+• Function to Check Prime.<br>
+• Function to Find Factorial.<br>
+
+---
