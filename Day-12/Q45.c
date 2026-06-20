@@ -1,6 +1,6 @@
 // Write a program to Write function for palindrome.
 
-#include <stdio.h>
+#include<stdio.h>
 
 int palindrome(int n)
 {
