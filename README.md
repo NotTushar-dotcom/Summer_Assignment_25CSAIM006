@@ -78,7 +78,7 @@
 
 ---
 <h2>Day-12 Completed:</h2>
-• Function to Write Function for Palindromme.<br>
+• Function to Write Function for Palindrome.<br>
 • Function to Write Function for Armstrong.<br>
 • Function to Write Function for Fibonacci.<br>
 • Function to Wrtie Function for Perfect Number.<br>
