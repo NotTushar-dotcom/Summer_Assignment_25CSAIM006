@@ -84,3 +84,10 @@
 • Function to Wrtie Function for Perfect Number.<br>
 
 ---
+<h2>Day-13 Completed:</h2>
+• Input and Display Array.<br>
+• Find Sum and Average of Array.<br>
+• Find Largest and Smallest Element.<br>
+• Count Even and Odd Elements.<br>
+
+---
