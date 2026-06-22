@@ -91,3 +91,10 @@
 • Count Even and Odd Elements.<br>
 
 ---
+<h2>Day-14 Completed:</h2>
+• Linear Search.<br>
+• Frequency of an Element.<br>
+• Second Largest Element.<br>
+• Find Duplicates in Array.<br>
+
+---
