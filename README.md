@@ -98,3 +98,31 @@
 • Find Duplicates in Array.<br>
 
 ---
+<h2>Day-15 Completed:</h2>
+• Reverse Array.<br>
+• Rotate Array Left.<br>
+• Rotate Array Right.<br>
+• Move Zeroes to End.<br>
+
+---
+<h2>Day-16 Completed:</h2>
+• Find Missing Number in Array.<br>
+• Find Maximum Frequency Element.<br>
+• Find Pair with Given Sum.<br>
+• Remove Duplicates from Array.<br>
+
+---
+<h2>Day-17 Completed:</h2>
+• Merge Arrays.<br>
+• Union of Arrays.<br>
+• Intersection of Arrays.<br>
+• Find Common Elements.<br>
+
+---
+<h2>Day-18 Completed:</h2>
+• Bubble Sort.<br>
+• Selection Sort.<br>
+• Binary Search.<br>
+• Sort Array in Descending Order.<br>
+
+---
