@@ -126,10 +126,3 @@
 • Sort Array in Descending Order.<br>
 
 ---
-<h2>Day-18 Completed:</h2>
-• Bubble Sort.<br>
-• Selection Sort.<br>
-• Binary Search.<br>
-• Sort Array in Descending Order.<br>
-
----
