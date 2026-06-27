@@ -126,3 +126,10 @@
 • Sort Array in Descending Order.<br>
 
 ---
+<h2>Day-19 Completed:</h2>
+• Multiply Matrices.<br>
+• Check Symmetric Matrix.<br>
+• Find Row-Wise Sum.<br>
+• Find Column-Wise Sum.<br>
+
+---
