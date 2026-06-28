@@ -13,7 +13,7 @@ int main() {
 	scanf("%d", &n);
 
 	if (n <= 0 || n > MAX) {
-		printf("Invalid matrix size.\n");
+		printf("Invalid Matrix size.\n");
 		return 1;
 	}
 
