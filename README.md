@@ -130,7 +130,7 @@
 • Add Matrices.<br>
 • Subtract Matrices.<br>
 • Transpose Matrix.<br>
-• Find Diagonal Sum..<br>
+• Find Diagonal Sum.<br>
 
 ---
 <h2>Day-20 Completed:</h2>
