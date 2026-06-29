@@ -140,3 +140,10 @@
 • Find Column-Wise Sum.<br>
 
 ---
+<h2>Day-21 Completed:</h2>
+• Find String Length Without strlen().<br>
+• Reverse a String.<br>
+• Count Vowels and Consonants.<br>
+• Convert Lowercase to Uppercase.<br>
+
+---
