@@ -147,3 +147,10 @@
 • Convert Lowercase to Uppercase.<br>
 
 ---
+<h2>Day-22 Completed:</h2>
+• Check Palindrome String.<br>
+• Count Words in a Sentence.<br>
+• Character Frequency.<br>
+• Remove spaces from String.<br>
+
+---

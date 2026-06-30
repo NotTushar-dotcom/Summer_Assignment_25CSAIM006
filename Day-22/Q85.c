@@ -1,3 +1,5 @@
+// Write a program to Check palindrome string.
+
 #include <stdio.h>
 #include <string.h>
 
