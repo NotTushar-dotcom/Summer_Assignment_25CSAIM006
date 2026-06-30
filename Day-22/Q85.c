@@ -1,4 +1,4 @@
-// Write a program to Check palindrome string.
+// Write a program to Check palindrome String.
 
 #include <stdio.h>
 #include <string.h>
