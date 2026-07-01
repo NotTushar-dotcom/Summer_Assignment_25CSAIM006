@@ -154,3 +154,10 @@
 • Remove spaces from String.<br>
 
 ---
+<h2>Day-23 Completed:</h2>
+• Find First Non-repeating Character.<br>
+• Find First Repeating Character.<br>
+• Check Anagram Strings.<br>
+• Find Maximum Occurring Character.<br>
+
+---
