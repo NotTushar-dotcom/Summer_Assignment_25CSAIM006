@@ -1,4 +1,4 @@
-// Write a program to Find first non-repeating character.
+// Write a program to Find first Non-repeating character.
 
 #include <stdio.h>
 #include <string.h>
