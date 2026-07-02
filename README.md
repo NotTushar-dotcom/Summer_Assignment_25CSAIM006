@@ -161,3 +161,10 @@
 • Find Maximum Occurring Character.<br>
 
 ---
+<h2>Day-24 Completed:</h2>
+• Check String Rotation.<br>
+• Compress a String.<br>
+• Find Longest Word.<br>
+• Remove Duplicate Characters.<br>
+
+---
