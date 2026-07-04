@@ -168,3 +168,17 @@
 • Remove Duplicate Characters.<br>
 
 ---
+<h2>Day-25 Completed:</h2>
+• Merge Two Sorted Arrays.<br>
+• Find Common Characters in Strings.<br>
+• Sort Names Alphabetically.<br>
+• Sort Words by Length.<br>
+
+---
+<h2>Day-26 Completed:</h2>
+• Create Number Guessing Game.<br>
+• Create Voting Eligibility System.<br>
+• Create ATM Simulation.<br>
+• Create Quiz Application.<br>
+
+---
