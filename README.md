@@ -182,3 +182,10 @@
 • Create Quiz Application.<br>
 
 ---
+<h2>Day-27 Completed:</h2>
+• Create Student Record management System.<br>
+• Create Employee Management System.<br>
+• Create Salary Management System.<br>
+• Create Marksheet Generation System.<br>
+
+---
