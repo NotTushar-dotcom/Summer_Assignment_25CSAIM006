@@ -108,7 +108,7 @@ void addStudent(struct Student students[], int *count) {
 void displayMarksheet(struct Student student) {
 	float total = calculateTotal(student);
 	float percentage = calculatePercentage(student);
-	char *grade = calculateGrade(percentage);
+	const char *grade = calculateGrade(percentage);
 	int result = isPass(student);
 
 	printf("\n------------------------------\n");
