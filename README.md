@@ -196,3 +196,10 @@
 • Create Contact Management System.<br>
 
 ---
+<h2>Day-29 Completed:</h2>
+• Create Menu-driven Calculator.<br>
+• Create Menu-driven Array Operations System.<br>
+• Create Menu-driven String Operations System.<br>
+• Create Inventory Management System.<br>
+
+---
