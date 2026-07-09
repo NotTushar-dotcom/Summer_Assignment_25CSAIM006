@@ -197,9 +197,9 @@
 
 ---
 <h2>Day-29 Completed:</h2>
-• Create Menu-driven Calculator.<br>
-• Create Menu-driven Array Operations System.<br>
-• Create Menu-driven String Operations System.<br>
-• Create Inventory Management System.<br>
+• Create Student Record System using Arrays and Strings.<br>
+• Create Mini Library System.<br>
+• Create Mini Employee Anagement System.<br>
+• Develop Complete Mini-Project using Arrays, Strings and Functions.<br>
 
 ---
